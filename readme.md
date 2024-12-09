@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate academic researcher with 1.5 years experience with machine learning projects and 4.5 years of<br>experience in software programming at both cooperate and academic environments. I am currently performing<br>research, with a focus on converting car manufacturing process more sustainable using Artificial Intelligence.<br>Aspiring for computer vision projects, where I can use my expertise and experience creating artificial intelligence<br>solutions to contribute to cutting-edge projects.
+Passionate academic researcher with experience in AI and experience in software programming at both cooperate and academic environments. I am currently performing<br>research, with a focus on converting car manufacturing process more sustainable using Artificial Intelligence.<br>Aspiring for computer vision projects, where I can use my expertise and experience creating artificial intelligence<br>solutions to contribute to cutting-edge projects.
 
 
 ## 🌐 Socials:
